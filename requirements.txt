@@ -1,6 +1,6 @@
 streamlit
 pandas>=1.0
-pandas-datareader
+pandas-datareader>=.10
 matplotlib
 lxml
 requests>=2.19.0
